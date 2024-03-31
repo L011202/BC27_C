@@ -26,8 +26,8 @@
 #include "math.h"		//包含数学公式
 int main()
 {
-	double n = 0;
-	double V = 0;
+	double n = 0.0;
+	double V = 0.0;
 	double PI = 3.1415926;
 	scanf("%lf", &n);
 	if (0 <= n && n <= 15) {					 //范围判断
